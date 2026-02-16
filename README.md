@@ -5,7 +5,8 @@
 ---
 
 ## การเตรียมไฟล์ตามแพลตฟอร์ม (Preparation)
-[Get File](https://drive.google.com/drive/folders/1hNw0lCtdp3Je35gCRgQr9IrdXJpms95S?usp=sharing)
+
+#### Downaload file ได้ที่นี้ : [Get File](https://drive.google.com/drive/folders/1hNw0lCtdp3Je35gCRgQr9IrdXJpms95S?usp=sharing)
 
 ตรวจสอบว่าคุณมีไฟล์ Executable ที่ถูกต้องตามระบบปฏิบัติการของคุณ:
 
@@ -89,7 +90,7 @@ chmod +x RedmineSync-mac-arm64
 
 ##การเตรียมไฟล์ตามแพลตฟอร์ม (Preparation)
 
-[Get File](https://drive.google.com/drive/folders/1hNw0lCtdp3Je35gCRgQr9IrdXJpms95S?usp=sharing)
+#### Downaload file ได้ที่นี้ : [Get File](https://drive.google.com/drive/folders/1hNw0lCtdp3Je35gCRgQr9IrdXJpms95S?usp=sharing)
 
 ผู้ใช้งานควรเลือกใช้ไฟล์ Executable ให้ตรงตามระบบปฏิบัติการที่ใช้งาน:
 
